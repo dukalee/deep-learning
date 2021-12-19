@@ -9,5 +9,3 @@
 * BackPropagation
 
 ### Convolutional Neural Network
-* Projects
-  * RPS (Rock-Paper-Scissors)
